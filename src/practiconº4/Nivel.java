@@ -14,6 +14,7 @@ import java.util.Objects;
 public class Nivel {
     private String Nombre;
     private String Codigo;
+    int x;
 
     public Nivel(String Nombre, String Codigo) {
         this.Nombre = Nombre;
